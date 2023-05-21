@@ -11,6 +11,10 @@ header{
   padding: 20px;
 }
 
+h2 {
+  text-indent: 0.5em;
+}
+
 .section {
     background-color: #4a4e69;
     color: white;
