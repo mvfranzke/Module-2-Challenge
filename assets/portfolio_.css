@@ -46,3 +46,15 @@ h2 {
     align-items: stretch;
     justify-content: space-between;
   } 
+
+/* for banner Welcome to my portfolio*/  
+h1{
+  text-align: left;
+}
+
+/* style for paragrap in about me section */
+p { 
+  text-indent: 2em;
+  margin: 10px;
+  padding: 10px;
+}
