@@ -12,14 +12,13 @@ N/A
 ## Usage
 
 URL of deployed application : 
-
+https://mvfranzke.github.io/Module-2-Challenge/
 
 URL of Github repository :
 https://github.com/mvfranzke/Module-2-Challenge
 
 Screenshot of deployed application can be found here:
-![alt text](assets/imag
-es/nananana_application.jpg)
+![alttext](/assets/images/screenshot%20of%20working%20page.jpg)
 
 ## Credits
 I used the following as additional resources when creating the webpage:
