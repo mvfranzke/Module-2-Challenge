@@ -59,6 +59,29 @@ p {
   padding: 10px;
 }
 
+/* style for container that houses the images */
+.project-box {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+
+} 
+
+/* style for the images within project box */
+.project-image{
+  background-color: crimson;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  text-align:center;;
+  list-style: none;
+}
 
 /* style and link for the images used in displaying works under projects section */
 .atm-image {
