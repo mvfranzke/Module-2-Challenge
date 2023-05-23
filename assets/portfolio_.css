@@ -1,0 +1,12 @@
+/* universal setting */
+* {
+  padding: 0;
+  margin: 0;
+} 
+
+/* style set for the entire body portion */
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
