@@ -131,3 +131,22 @@ p {
     padding: 30px
 
 }
+
+/* mobile first settings, page flow on different screen size devices */
+@media (max-width: 1200px) {
+	.img-item{
+		width: 23%;
+	}
+}
+
+@media (max-width: 992px) {
+	.img-item{
+		width: 31.33%;
+	}
+}
+
+@media (max-width: 768px) { 
+	.img-item{
+		width: 48%;
+	}
+}
