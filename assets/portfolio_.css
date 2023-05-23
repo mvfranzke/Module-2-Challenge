@@ -28,3 +28,21 @@ header{
   height: 150px;
   margin-top: 10px;
 }
+
+/* style set for all 4 section- about me, project, contact and resume */
+h2 {
+  text-indent: 0.5em;
+}
+
+.section {
+    background-color: #4a4e69;
+    color: white;
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-between;
+  } 
