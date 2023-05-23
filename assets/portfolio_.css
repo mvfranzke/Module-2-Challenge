@@ -58,3 +58,35 @@ p {
   margin: 10px;
   padding: 10px;
 }
+
+
+/* style and link for the images used in displaying works under projects section */
+.atm-image {
+  background-image: url(../assets/images/atm.jpg);
+  opacity: 0.5;
+  border-radius: 15%;
+}
+
+.currency-image {
+  background-image: url(../assets/images/currency.jpg);
+  opacity: 0.7;
+  border-radius: 15%;
+}
+
+.airline-image {
+  background-image: url(../assets/images/airline.jpg);
+  opacity: 0.5;
+  border-radius: 15%;
+}
+
+.online-bookstore {
+  background-image: url(../assets/images/bookstore.jpg);
+  opacity: 0.5;
+  border-radius: 15%;
+}
+
+.attendance-image {
+  background-image: url(../assets/images/attendance.jpg);
+  opacity: 0.5;
+  border-radius: 15%;
+}
