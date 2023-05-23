@@ -83,7 +83,7 @@ p {
   list-style: none;
 }
 
-/* style and link for the images used in displaying works under projects section */
+/* style and link for the 5 images used in displaying works under projects section */
 .atm-image {
   background-image: url(../assets/images/atm.jpg);
   opacity: 0.5;
@@ -112,4 +112,22 @@ p {
   background-image: url(../assets/images/attendance.jpg);
   opacity: 0.5;
   border-radius: 15%;
+}
+
+/* style for contacts portion */
+.footer-box{
+    text-align:left;
+    padding: 25px ;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-between;
+    line-height: 30px;
+}
+
+/* style for contacts portion specific to social media link */
+.footer-socmed{
+    padding: 30px
+
 }
