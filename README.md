@@ -12,10 +12,10 @@ N/A
 ## Usage
 
 URL of deployed application : 
-https://mvfranzke.github.io/Module-2-Challenge/
+https://mvfranzke.github.io/My-Portfolio/
 
 URL of Github repository :
-https://github.com/mvfranzke/Module-2-Challenge
+https://github.com/mvfranzke/My-Portfolio
 
 Screenshot of deployed application can be found here:
 ![alttext](/assets/images/screenshot%20of%20working%20page.jpg)
