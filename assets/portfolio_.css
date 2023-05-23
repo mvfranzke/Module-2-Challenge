@@ -83,6 +83,13 @@ p {
   list-style: none;
 }
 
+/* style on how the image will appear when mouse hovers to it */
+.project-image:hover{
+  background-size: 150%;
+  border: 3px solid;
+  opacity: 1;
+}
+
 /* style and link for the 5 images used in displaying works under projects section */
 .atm-image {
   background-image: url(../assets/images/atm.jpg);
