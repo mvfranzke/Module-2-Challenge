@@ -19,3 +19,12 @@ header{
   justify-content:space-around;
   background-image: url(../assets/images/beach.jpg);
 }
+
+/* photo of myself, set border radius to 50% to make it a circle */
+.mypic{
+  border-radius: 50%;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+}
