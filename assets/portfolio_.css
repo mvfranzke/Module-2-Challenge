@@ -92,7 +92,7 @@ p {
 
 /* style and link for the 5 images used in displaying works under projects section */
 .atm-image {
-  background-image: url(../assets/images/atm.jpg);
+  background-image: url(../assets/images/food.jpg);
   opacity: 0.5;
   border-radius: 15%;
 }
